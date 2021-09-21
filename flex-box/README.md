@@ -22,4 +22,4 @@ Neste documento conheceremos as **propriedades do CSS** que fazem parte desse re
 -   [flex-basis](flex-basis/README.md)
 -   [flex](flex/README.md)
 -   [align-self](align-self/README.md)
--   [Exemplo prático](/README.md)
+-   [Exemplo prático](exemplo-pratico/README.md)

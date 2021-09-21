@@ -2,8 +2,9 @@
 
 O **Flexbox** é um conjunto de propriedades que tem por objetivo organizar itens dentro de um elemento pai, normalmente chamado de container, conforme ilustra a **Figura 1**.
 
-`Figura 1 Estrutura dos elementos para aplicação do Flexbox`
 ![](https://arquivo.devmedia.com.br/artigos/Fernando_gaspar/flex/estrutura_elementos.png)
+<br/>
+`Figura 1 Estrutura dos elementos para aplicação do Flexbox`
 
 Portanto, para utilizar esse recurso é necessário ter no HTML ao menos um elemento (container) contendo outros (itens), como no código abaixo:
 

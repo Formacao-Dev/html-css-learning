@@ -23,8 +23,8 @@ Para entender o **funcionamento do Flexbox** é necessário ter em mente alguns 
 
 Na Figura 2 podemos ver esse e outros conceitos ilustrados para o caso de o eixo principal ser o horizontal.
 
-`Figura 2. Alinhamento dos eixos do Flexbox`
 ![](https://arquivo.devmedia.com.br/artigos/Fernando_gaspar/flex/alinhamento.png)
+`Figura 2. Alinhamento dos eixos do Flexbox`
 
 -   **Tamanho principal**: É a dimensão do elemento na direção do eixo principal (largura, caso horizontal e altura caso vertical);
 -   **Tamanho transversal**: É a dimensão do elemento na direção do eixo transversal (largura, caso horizontal e altura caso vertical);

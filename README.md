@@ -1,7 +1,5 @@
 # html-learning
 
 Projeto destinado a estudo de HTML e CSS
-eu sou bielzinhoooo
 
-oi biel hello man
-oi celinhoooo
+[elements-html](https://github.com/Formacao-Dev/html-css-learning/tree/main/elements-html) - Estrutura do HMTL e suas Tags

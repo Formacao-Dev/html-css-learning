@@ -17,5 +17,6 @@ A propriedade `justify-content` define o alinhamento dos itens ao longo do eixo 
 
 A Figura 4 ilustra o funcionamento de cada valor:
 
-`Figura 4 Representação da propriedade justify-content`
 ![](https://arquivo.devmedia.com.br/artigos/Fernando_gaspar/flex/justify-content.png)
+<br/>
+`Figura 4 Representação da propriedade justify-content`

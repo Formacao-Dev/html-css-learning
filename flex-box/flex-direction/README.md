@@ -16,5 +16,6 @@ A propriedade `flex-direction` deve ser aplicada ao container e define o eixo/fl
 
 A Figura 3 ilustra o funcionamento de cada valor.
 
-`Figura 3. Funcionamento da propriedade flex-direction`
 ![](https://arquivo.devmedia.com.br/artigos/Fernando_gaspar/flex/flex-direction.png)
+<br/>
+`Figura 3. Funcionamento da propriedade flex-direction`

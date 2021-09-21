@@ -18,5 +18,6 @@ Essa propriedade define como as linhas são distribuídas ao longo do eixo trans
 
 A Figura 5 ilustra o funcionamento de cada valor:
 
-`Figura 5. Funcionamento da propriedade align-content`
 ![](https://arquivo.devmedia.com.br/artigos/Fernando_gaspar/flex/align-content.png)
+<br/>
+`Figura 5. Funcionamento da propriedade align-content`

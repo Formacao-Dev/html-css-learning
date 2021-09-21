@@ -17,5 +17,6 @@ Essa propriedade define como os itens são distribuídos ao longo do eixo transv
 
 A Figura 6 ilustra o funcionamento de cada valor:
 
-`Figura 6. Representação da propriedade align-items`
 ![](https://arquivo.devmedia.com.br/artigos/Fernando_gaspar/flex/align-items.png)
+<br/>
+`Figura 6. Representação da propriedade align-items`

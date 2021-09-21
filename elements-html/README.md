@@ -117,7 +117,7 @@ A tag **<DOCTYPE>** é a primeira que aparece em um documento HTML e indica para
 Na **HTML5** o **DOCTYPE** ficou mais simples, com relação à **HTML4.1**. Observe as listagens a seguir.
 
 
-`**Listagem 1**: HTML4.1 DOCTYPE`
+`Listagem 1: HTML4.1 DOCTYPE`
 ```hmtl
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
  "http://www.w3.org/TR/html4/strict.dtd">
@@ -125,7 +125,7 @@ Na **HTML5** o **DOCTYPE** ficou mais simples, com relação à **HTML4.1**. Obs
 
 Agora fica apenas:
 
-`**Listagem 2**: HTML5 DOCTYPE`
+`Listagem 2: HTML5 DOCTYPE`
 
 ```html
 <!DOCTYPE html>
@@ -135,7 +135,7 @@ Nas tags link e script, utilizadas para referenciar arquivos **CSS** e **JavaScr
 
 As listagens a seguir mostram como eram essas tags na HTML4.1 e como são agora na HTML5.
 
-`**Listagem 3**: HTML4.1 LINK e SCRIPT`
+`Listagem 3: HTML4.1 LINK e SCRIPT`
 ```hmtl
 <link rel="stylesheet" type="text/css" href="arquivo.css">
 <script type="text/javascript" src="arquivo.js"></script>

@@ -9,7 +9,7 @@ Neste documento conheceremos as **propriedades do CSS** que fazem parte desse re
 ## Topicos
 
 -   [Conceitos iniciais](concenitos-iniciais/README.md)
--   [display](displayREADME.md)
+-   [display](display/README.md)
 -   [flex-direction](flex-direction/README.md)
 -   [flex-wrap](flex-wrap/README.md)
 -   [flex-flow](flex-flow/README.md)

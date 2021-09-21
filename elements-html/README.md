@@ -1,6 +1,6 @@
 # Entendendo os comandos e tags HTML5
 
-**O HTML5 assim como qualquer outra linguagem ao ser atualizada, além de receber novo comandos, aposenta outros0.** Dessa forma, você pode acompanhar no artigo abaixo, as tags que permanecem em uso no HTML5 e as tags que foram descontinuadas e só servem para as versões anteriores.
+**O HTML5 assim como qualquer outra linguagem ao ser atualizada, além de receber novo comandos, aposenta outros.** Dessa forma, você pode acompanhar no artigo abaixo, as tags que permanecem em uso no HTML5 e as tags que foram descontinuadas e só servem para as versões anteriores.
 
 ---
 

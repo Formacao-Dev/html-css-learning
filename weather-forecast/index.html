@@ -5,11 +5,79 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>Weather Forecast - Formação Dev</title>
+		<link rel="stylesheet" href="css/style.css" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700;900&display=swap" rel="stylesheet" />
 	</head>
 	<body>
 		<div class="container">
-			<div class="main-forecast"></div>
-			<div class="details"></div>
+			<div class="main-forecast">
+				<div class="forecast-header">
+					<h1>Tuesday</h1>
+					<p>15 Jan 2019</p>
+					<p>
+						<img src="https://cdn-icons-png.flaticon.com/512/1216/1216844.png" />
+						Paris,Fr
+					</p>
+				</div>
+
+				<div class="forecast-footer">
+					<img src="https://cdn-icons-png.flaticon.com/512/606/606795.png" />
+					<h1>29° C</h1>
+					<h2>Sunny</h2>
+				</div>
+			</div>
+			<div class="details-box">
+				<div class="details">
+					<div class="detail">
+						<div class="item">
+							<p><b>PRECIPITATION</b></p>
+							<p>0%</p>
+						</div>
+						<div class="item">
+							<p><b>HUMIDITY</b></p>
+							<p>34%</p>
+						</div>
+						<div class="item">
+							<p><b>WIND</b></p>
+							<p>0 km/h</p>
+						</div>
+					</div>
+					<div class="days">
+						<div class="day">
+							<!-- <p>Icone sol</p> -->
+							<img src="https://cdn-icons-png.flaticon.com/512/606/606795.png" />
+							<p>Tue</p>
+							<p><b>29ºC</b></p>
+						</div>
+
+						<div class="day">
+							<!-- <p>Icone nuvem</p> -->
+							<img src="https://cdn-icons-png.flaticon.com/512/606/606795.png" />
+							<p>Wed</p>
+							<p><b>21ºC</b></p>
+						</div>
+
+						<div class="day">
+							<!-- <p>Icone nuvem neve</p> -->
+							<img src="https://cdn-icons-png.flaticon.com/512/606/606795.png" />
+							<p>Thu</p>
+							<p><b>9ºC</b></p>
+						</div>
+
+						<div class="day">
+							<!-- <p>Icone nuvem chuva</p> -->
+							<img src="https://cdn-icons-png.flaticon.com/512/606/606795.png" />
+							<p>Fry</p>
+							<p><b>19ºC</b></p>
+						</div>
+					</div>
+					<div class="actions">
+						<a class="btn" href="#">Change location</a>
+					</div>
+				</div>
+			</div>
 		</div>
 	</body>
 </html>

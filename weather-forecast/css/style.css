@@ -1,0 +1,155 @@
+body {
+	display: flex;
+	justify-content: center; /* Alinha veritcalmente quando o flex-direction é: column e horizontalmente quando row */
+	align-items: center; /* Alinha horizontalmente quando o flex-direction é: column e veritcalmentequando row */
+	background-color: #353d4d;
+	margin: 0;
+	min-height: 100vh;
+	font-family: 'Roboto', sans-serif;
+}
+
+.container {
+	display: flex;
+	width: 850px;
+	height: 550px;
+}
+
+.main-forecast {
+	z-index: 5;
+	width: 425px;
+	border-radius: 30px;
+	background: linear-gradient(135deg, rgba(117, 237, 241, 1) 0%, rgba(85, 88, 235, 1) 100%);
+	/* TODO: Implementar imagem de funto junto ao gradiente */
+	-webkit-box-shadow: -22px 1px 50px 21px rgba(0, 0, 0, 0.27);
+	box-shadow: -22px 1px 50px 21px rgba(0, 0, 0, 0.27);
+	padding: 30px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.forecast-header {
+	line-height: 0.8;
+}
+
+.forecast-header p {
+	font-size: 18px;
+}
+
+.forecast-header p img {
+	position: relative;
+	top: 3px;
+	height: 20px;
+	-webkit-filter: invert(1);
+	filter: invert(1);
+}
+
+.forecast-footer {
+	line-height: 0.1;
+}
+
+.forecast-footer h1 {
+	font-size: 60pt;
+}
+
+.forecast-footer img {
+	height: 90px;
+	-webkit-filter: invert(1);
+	filter: invert(1);
+}
+
+.main-forecast,
+.details {
+	color: #fff;
+}
+
+.details-box {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 425px;
+}
+
+.details {
+	border-radius: 0 30px 30px 0;
+	background: #222831;
+	width: 100%;
+	-webkit-box-shadow: 0px 1px 50px 21px rgba(0, 0, 0, 0.27);
+	box-shadow: 0px 1px 50px 21px rgba(0, 0, 0, 0.27);
+	padding: 30px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.detail {
+	display: flex;
+	flex-direction: column;
+}
+
+.detail .item {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	height: 35px;
+}
+
+.days {
+	display: flex;
+	margin-top: 40px;
+}
+
+.days .day:last-child {
+	border-radius: 0 10px 10px 0;
+}
+
+.days .day:first-child {
+	border-radius: 10px;
+	background: #fff;
+	color: #222831;
+}
+
+.days .day:first-child img {
+	-webkit-filter: invert(0);
+	filter: invert(0);
+}
+
+.day {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background: #1f252d;
+	color: #fff;
+	padding: 15px;
+	flex: 1;
+}
+
+.day p {
+	margin: 0px;
+	margin-bottom: 10px;
+}
+
+.day img {
+	height: 30px;
+	-webkit-filter: invert(1);
+	filter: invert(1);
+	margin-bottom: 10px;
+}
+
+.actions {
+	margin-top: 30px;
+	display: flex;
+	justify-content: center;
+}
+
+.btn {
+	padding: 15px;
+	width: 100%;
+	text-align: center;
+	border-radius: 50px;
+	text-decoration: none;
+	color: #fff;
+	background-image: linear-gradient(135deg, rgba(117, 237, 241, 1) 0%, rgba(85, 88, 235, 1) 100%);
+	color: #fff;
+	background-clip: text !important;
+}

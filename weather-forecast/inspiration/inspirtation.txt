@@ -10,3 +10,7 @@ Button Gradient: #75EDF1 - #5558EB
 Text Color: #ffffff
 
 Dark Text: #222831 
+
+
+
+IMG BG: https://all.accor.com/magazine/imagerie/ferias-na-praia-o-que-fazer-das-f163.jpg

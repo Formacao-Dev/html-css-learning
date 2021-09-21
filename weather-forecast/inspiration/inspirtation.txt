@@ -1,0 +1,12 @@
+Colors:
+
+Background Page:    #353D4D
+Background Card:    #222831
+
+Second BG Card: #1F252D;
+
+Button Gradient: #75EDF1 - #5558EB
+
+Text Color: #ffffff
+
+Dark Text: #222831 

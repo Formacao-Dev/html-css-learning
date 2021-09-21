@@ -5,6 +5,7 @@
 ---
 
 ### Tags Continuadas:
+```html
 - <!--...--> Define um comentário;
 - <!DOCTYPE> Define o tipo de documento; (No HTML 4 existiam três (3) diferentes tipos de doctype, mas no HTML 5 temos apenas um (1) tipo <!DOCTYPE HTML>. É aqui que o navegador entende o tipo de documento e como ele deve interpretar as tags nele contidas.)
 - <a> Define um hyperlink;
@@ -79,10 +80,13 @@
 - <tr> Define uma linha da tabela;
 - <ul> Define uma lista desordenada;
 - <var> Define uma variável;
+```
+
 
 ---
 
 ### Tags Descontinuadas:
+```html
 - <acronym> Define siglas em HTML 4.01. (Desenvolvedores preferem utilizar a tag <abbr>);
 - <applet> Define um miniaplicativo incorporado. (Ficou obsoleto em função da tag <object>);
 - <basefont> Define as propriedads da font padrão para todo o texto do documento. (Apenas efeito visual);
@@ -97,6 +101,8 @@
 - <tt> Define teletipo de texto. (Apenas efeito visual);
 - <u> Define sublinhado. (Apenas efeito visual);
 - <xmp> Define texto pré-formatado. (Ficou obsoleto em função da tag <pre>);
+```
+
 
 Se analisarmos bem as definições podemos perceber que muitas tags descontinuadas tiveram esse fim por já existirem tags que realizam a mesma função. E ao utilizar o **HTML 5 você perceberá que algumas tags continuadas foram modificadas e passaram a exercer outras propriedades**, fazendo, também, que outras tags percam valor.
 
